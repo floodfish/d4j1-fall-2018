@@ -1,0 +1,29 @@
+html {
+	background-color:#bfbfd2;
+	font-size: 14px;
+}
+body {
+	background-color: #bfbfd2;
+	color: #FFF;
+	margin: 0 auto;
+	width: 870px;
+	font-family: 'courier', sans-serif;
+	text-align: center;
+}
+h1	{
+	 color:FFF;
+	 font-size: 40px;
+	 text-align: center;
+	 
+}
+h2	{
+	 color:FFF;
+	 font-size: 30px;
+	 text-align: center;
+
+}
+img, iframe {
+  width: 700px;
+
+
+	 

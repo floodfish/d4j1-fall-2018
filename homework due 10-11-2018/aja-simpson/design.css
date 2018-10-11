@@ -1,0 +1,63 @@
+html {
+	max-width: 950px;
+	width: 100%;
+	margin: 0 auto;
+	font-family: georgia;
+	letter-spacing: 1px;
+	color: #2e3235;
+}
+
+h1 {
+	text-align: center;
+	border-bottom: solid 2px black;
+	padding-bottom: 40px;
+	font-size: 50px;
+	color: black
+}
+
+h4 {
+	font-size: 15px;
+	font-weight: normal;
+	color: #41454b;
+	border-top: solid 2px black;
+	padding-top: 10px;
+}
+
+p {
+	font-size: 20px;
+	text-indent: 50px;
+	padding-left: 50px
+}
+
+li {
+	font-size: 20px;
+	line-height: 1.5em;
+}
+
+h2 {
+	padding-top: 30px;
+	text-decoration: underline;
+	color: black
+}
+
+.noindent {
+	text-indent: 1px
+}
+
+.switch, .School {
+	display: inline-block;
+	width: 49%;
+} 
+
+.redesign, .prop-up, .imageblock, .imageblock2 {
+	max-width: 450px;
+	width: 100%;
+}
+
+.imageblock {
+	float: left;
+}
+
+.imageblock2 {
+	float: right;
+}

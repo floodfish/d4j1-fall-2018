@@ -1,0 +1,42 @@
+h1{
+text-align: center;
+text-transform: normal;
+font-style: normal;
+font-family: "Times New Roman";
+font-size: 35px;
+color: #001f3f;
+}
+h2{
+text-align: center;
+text-transform: normal;
+font-style: normal;
+font-family: "Times New Roman";
+font-size: 22px;
+color: #001f3f;
+}
+h3{
+text-align: center;
+text-transform: normal;
+font-style: normal;
+font-family: "Times New Roman";
+font-size: 18px;
+color: #001f3f;
+}
+body{
+  text-align: center;
+  text-transform: normal;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-size: 25px;
+  color: #001f3f;
+  background-color: #E1F7FE;
+}
+p{
+  text-align: center;
+  text-transform: normal;
+  font-style: normal;
+  font-family: "Times New Roman";
+  font-size: 25px;
+  color: #001f3f;
+  background-color: #E1F7FE;
+}

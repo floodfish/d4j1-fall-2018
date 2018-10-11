@@ -1,0 +1,39 @@
+body {
+  background-color: #FADADD;
+  padding-left: 120px;
+  padding-right: 120px;
+  font-family: Arial;
+  font-size: 14;
+}
+p {
+  color: #000000;
+  padding-left: 160px;
+  padding-right: 160px;
+  font-size: 14;
+}
+h1 {
+  color: #333333;
+  padding-left: 120px;
+  padding-right: 120px;
+  margin-top: 20px;
+  font-family: Arial Black;
+  font-size: 30;
+  text-align: center;
+}
+h2 {
+  color: #696969;
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-top: 10px;
+  font-family: Arial Black;
+  font-size: 16;
+  text-align: center;
+}
+img {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+  width: 35%;
+}

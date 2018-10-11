@@ -1,0 +1,49 @@
+html {}
+
+body { padding: 10px;
+	max-width: 670px;
+	margin: auto;
+background-color: #868689;
+}
+
+
+h1 {
+	color: #e65c00;
+	text-align: center;
+	font-size: 45px;
+	line-height:normal;
+	font-family: 'Lato', sans-serif;
+}
+
+h2 {
+	color: #000080;
+	font-size: 20px;
+	line-height:normal;
+	font-family: 'Lato', sans-serif;
+}
+
+h3 {
+	color:#e65c00;
+	font-size: 16px;
+	line-height:normal;
+	font-family: 'Lato', sans-serif;
+}
+
+
+p {
+	font-family: 'Lato', sans-serif; 
+	font-size: 14px;
+	line-height:normal;
+	color: #000000; }
+
+	img { margin: auto;
+		display: block; 
+	}
+
+		img.garment-rack  {width: 654px;
+			height: 654px; }
+
+		img.laura-netflix-web-page {width: 654px;
+			height: 367px;}
+
+		
