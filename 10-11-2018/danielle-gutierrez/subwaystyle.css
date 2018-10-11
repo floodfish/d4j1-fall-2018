@@ -1,0 +1,63 @@
+body {
+  max-width: 750px;
+  width: 100%;
+  margin: auto;
+  padding: 30px;
+}
+
+p, h4, h5 {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Lato";
+  line-height: 1.7em;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Playfair Display";
+  font-size: 40px;
+  line-height: 1.3em;
+}
+
+h2 {
+  font-family: "Playfair Display";
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: normal;
+  letter-spacing: .1em;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-family: "Lato";
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.7em;
+}
+
+h4 {
+  font-style: bold;
+}
+
+h5 {
+  font-style: italic;
+}
+
+img {
+  max-width: 750px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+hr {
+  width: 50%;
+  display: block;
+  border-style: inset;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

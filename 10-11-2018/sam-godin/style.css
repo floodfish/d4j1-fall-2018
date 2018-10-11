@@ -1,0 +1,33 @@
+img {
+	margin-left: 34%;
+	margin-right: 34%;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	height: 400px;
+	width: 400px;
+	outline-color: #000000;
+	outline: dashed;
+}
+
+body {
+	background-color: #3B6B5E;
+}
+
+p {
+	text-align: center;
+	font-size: 150%;
+	color: #000000;
+	font-family: Verdana;
+	margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+h1 {
+	color: #000000;
+	margin-top: 100px;
+	font-family: Verdana;
+	font-size: 300%;
+	text-align: center;
+}

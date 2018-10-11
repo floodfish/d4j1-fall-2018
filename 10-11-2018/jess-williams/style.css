@@ -1,0 +1,52 @@
+h1 {font-size: 50px;
+	font-family: sans-serif;
+	font-weight: 300px;
+	color: #5A0101;
+	line-height: 4rem;
+	text-align: center;
+}
+
+h2	{font-size: 20px;
+		font-family: Courier;
+		font-weight: 1px;
+		color: #9D6C6C;
+    text-align:center;
+	}
+
+body {width: 800px;
+	margin-top: 75px;
+	margin right: 300px;
+	margin-bottom: 25px;
+	margin-left: 250px;
+	font-size: 16px;
+	font-family: Courier;
+	letter-spacing: 1px;
+	line-height: 1.5rem;
+  background-color: #FFF2E1;
+}
+
+img.operahouselandscapepic {max-width: 100%;
+					height: 600px;
+		}
+
+img.operahousethunderstormpic {max-width: 100%;
+    					height: 600px;
+    }
+img.deropic {max-width: 100%;
+              height: 600px;
+    }
+
+div {font-size: 12px;
+	font-style: italic;
+	line-height: 0.75rem;
+  color: #9D6C6C;
+}
+
+h6 {color: grey;
+font-weight: normal;
+}
+
+a {color: #FFE79B;
+}
+
+h6 span {display: block;}
